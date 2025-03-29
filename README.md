@@ -18,8 +18,8 @@ O script faz scraping de uma página da ANS (Agência Nacional de Saúde Supleme
    py teste1.py
 O script criará uma pasta chamada Anexos ANS onde os arquivos PDF serão baixados. Ao final, todos os arquivos serão compactados em um arquivo ZIP chamado anexos_ans.zip.
 
-Observações
+## Observações
 Este repositório é apenas para fins de estudo e testes pessoais. Não é um projeto em produção e está apenas demonstrando a implementação de um código de web scraping simples para fins educativos.
 
-Licença
+## Licença
 Este projeto é de uso pessoal e não possui licença definida. Sinta-se à vontade para estudar e modificar o código para fins educacionais.
